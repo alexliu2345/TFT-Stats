@@ -1,5 +1,7 @@
 # TFT-Stats
 
+Note:API key must be updated every 24 hours (Must have account on Riot developer portal to get Riot API key)
+
 Stat calculator for Riot Games' auto chess game Teamfight Tactics
 Uses calls to Riot's REST API to pull data about previous matches in JSON format 
 
